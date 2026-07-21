@@ -1,0 +1,10 @@
+[project]
+name = "twincat-conveyor-sequence"
+version = "0.1.0"
+description = "TwinCAT konveyör sıralı çalışma eğitim projesi ve Python simülasyonu"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
